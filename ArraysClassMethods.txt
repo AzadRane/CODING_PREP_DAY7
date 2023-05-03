@@ -3,3 +3,4 @@ Arrays.sort(arrayname)          //Sorts the passed array
 Arrays.binarySearch(arrayname,keytofind)          //need to sort the array before performing binary search 
 Arrays.equals(array1,array2)   //Checks the two arrays are equal or not return true or false
 Arrays.fill(arrayvariable,valuetobefilled)        //it assigns all location of array with given value
+Arrays.copyOff(arraytobecopied,arraytobecopied.legth)    //to actual or physically copy an array 
